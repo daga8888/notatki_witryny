@@ -12,6 +12,21 @@ C:\Users\pspi\Desktop\Semestr 2\maki.jpeg
 
 
 
+Maki ładne dodajemy zrepozytorium w githabie u mnie.
+
+![MAKI](maki.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
