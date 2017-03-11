@@ -38,6 +38,24 @@ w 2. costam & `r E(BEZDP2[grupa1])` & `r E(BEZDP2[grupa2])` & `r E(BEZDP2[grupa3
 
 
 
+Może teraz tabelka
+\begin{tabular}{|r|l|}
+  \hline
+  7C0 & hexadecimal \\
+  3700 & octal \\ \cline{2-2}
+  11111000000 & binary \\
+  \hline \hline
+  1984 & decimal \\
+  \hline
+\end{tabular}
+
+
+
+
+
+
+
+
 
 
 
