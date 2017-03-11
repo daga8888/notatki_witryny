@@ -1,0 +1,12 @@
+\begin{tabular}{ | p{6.5cm} | p{2cm} | p{2cm} | p{2cm} |}
+\hline   
+\multicolumn{4}{|c|}{Procent absolwentów, którzy mieli doświadczenie bycia bezrobotnym}             \\ 
+\hline
+                      & Podzbiorowość 1       & Podzbiorowość 2       & Podzbiorowość 3             \\ 
+\hline
+w 1. roku po dyplomie & `r E(BEZDP1[grupa1])` & `r E(BEZDP1[grupa2])` & `r E(BEZDP1[grupa3])`       \\ 
+\hline
+w 2. roku po dyplomie & `r E(BEZDP2[grupa1])` & `r E(BEZDP2[grupa2])` & `r E(BEZDP2[grupa3])`       \\ 
+\hline
+\end{tabular}
+
