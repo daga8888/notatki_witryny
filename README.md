@@ -23,8 +23,18 @@ Maki ładne dodajemy zrepozytorium w githabie u mnie.
 
 
 
-
-
+MOŻE TABELKA
+\begin{tabular}{ | p{2.cm} | p{3cm} | p{5cm} | p{2cm} |}
+\hline   
+\multicolumn{4}{|c|}{MODLITWY DLA DZIECI}             \\ 
+\hline
+                      & Klasa 1      & Klasa 2       & Klasa 3             \\ 
+\hline
+w 1. costam & `r E(BEZDP1[grupa1])` & `r E(BEZDP1[grupa2])` & `r E(BEZDP1[grupa3])`       \\ 
+\hline
+w 2. costam & `r E(BEZDP2[grupa1])` & `r E(BEZDP2[grupa2])` & `r E(BEZDP2[grupa3])`       \\ 
+\hline
+\end{tabular}
 
 
 
