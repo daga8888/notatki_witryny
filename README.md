@@ -36,7 +36,8 @@ w 2. costam & `r E(BEZDP2[grupa1])` & `r E(BEZDP2[grupa2])` & `r E(BEZDP2[grupa3
 \hline
 \end{tabular}
 
-
+Tabelki kiepskie, trzeba zmienić.
+Dobrze że mam gita na xp, to mi nie będą ginąć pliki.
 
 Może teraz tabelka
 \begin{tabular}{|r|l|}
