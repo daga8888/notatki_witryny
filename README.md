@@ -50,6 +50,7 @@ Może teraz tabelka
   \hline
 \end{tabular}
 
+Sprawdzę ten link 
 
 
 
